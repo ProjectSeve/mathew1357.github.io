@@ -1,4 +1,8 @@
-$sapi_type = php_sapi_name();
-if (substr($sapi_type, 0, 3) == 'cgi')
-    header(':', true, 404);
-header('X-PHP-Response-Code: 404', true, 404);
+<?php
+
+// Get the current response code and set a new one
+var_dump(http_response_code(404));
+
+// Get the new response code
+var_dump(http_response_code());
+?>
