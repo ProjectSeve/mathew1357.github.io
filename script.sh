@@ -21,9 +21,9 @@ colors
 nere=$(wget https://git.io/codes.sh -q -O -)
 clear
 # Print Info IN
-echo " ░▒█▀▀▀█░▒█▀▀▀░▒█░░▒█░▒█▀▀▀"
-echo " ░░▀▀▀▄▄░▒█▀▀▀░░▒█▒█░░▒█▀▀▀"
-echo " ░▒█▄▄▄█░▒█▄▄▄░░░▀▄▀░░▒█▄▄▄"
+echo "    ░▒█▀▀▀█░▒█▀▀▀░▒█░░▒█░▒█▀▀▀"
+echo "    ░░▀▀▀▄▄░▒█▀▀▀░░▒█▒█░░▒█▀▀▀"
+echo "    ░▒█▄▄▄█░▒█▄▄▄░░░▀▄▀░░▒█▄▄▄"
 echo
 echo "=========================================="
 echo "        SeveScript Beta v2.3"
@@ -71,15 +71,15 @@ EOF
 ziproxy -d
 clear
 # Print Info
-echo " ░▒█▀▀▀█░▒█▀▀▀░▒█░░▒█░▒█▀▀▀"
-echo " ░░▀▀▀▄▄░▒█▀▀▀░░▒█▒█░░▒█▀▀▀"
-echo " ░▒█▄▄▄█░▒█▄▄▄░░░▀▄▀░░▒█▄▄▄"
+echo "    ░▒█▀▀▀█░▒█▀▀▀░▒█░░▒█░▒█▀▀▀"
+echo "    ░░▀▀▀▄▄░▒█▀▀▀░░▒█▒█░░▒█▀▀▀"
+echo "    ░▒█▄▄▄█░▒█▄▄▄░░░▀▄▀░░▒█▄▄▄"
 echo
 echo "=========================================="
-echo "   •NO SSH IS SUCCESSFULLY INSTALLEDv2•"
-echo " Your Port is $hens"
-echo " SeveScript Beta v2.3"
+echo "     •NO SSH IS SUCCESSFULLY INSTALLEDv2•"
 echo
+echo " Your Port is $hens"
+echo "Special Thanks To ATSL"
 echo "${green}===========AUTO SCRIPT BY SEVE===========${norm}"
 echo "==========================================" 
 read -n 1 -s -r -p "Press ${green}Enter Key${norm} to Clean"
