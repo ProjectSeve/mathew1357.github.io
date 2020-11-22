@@ -26,7 +26,7 @@ echo "    ░░▀▀▀▄▄░▒█▀▀▀░░▒█▒█░░▒█�
 echo "    ░▒█▄▄▄█░▒█▄▄▄░░░▀▄▀░░▒█▄▄▄"
 echo
 echo "=========================================="
-echo "        SeveScript Beta v2.3"
+echo "               SeveScript Beta v2.3"
 echo
 read -s -p "Password: " pass
 echo ""
@@ -76,11 +76,10 @@ echo "    ░░▀▀▀▄▄░▒█▀▀▀░░▒█▒█░░▒█�
 echo "    ░▒█▄▄▄█░▒█▄▄▄░░░▀▄▀░░▒█▄▄▄"
 echo
 echo "=========================================="
-echo "     •NO SSH IS SUCCESSFULLY INSTALLEDv2•"
+echo "       •NO SSH IS SUCCESSFULLY INSTALLEDv2•"
 echo
 echo " Your Port is $hens"
 echo "Special Thanks To ATSL"
 echo "${green}===========AUTO SCRIPT BY SEVE===========${norm}"
 echo "==========================================" 
-read -n 1 -s -r -p "Press ${green}Enter Key${norm} to Clean"
 echo
