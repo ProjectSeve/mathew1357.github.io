@@ -24,6 +24,10 @@ clear
 echo " ░▒█▀▀▀█░▒█▀▀▀░▒█░░▒█░▒█▀▀▀"
 echo " ░░▀▀▀▄▄░▒█▀▀▀░░▒█▒█░░▒█▀▀▀"
 echo " ░▒█▄▄▄█░▒█▄▄▄░░░▀▄▀░░▒█▄▄▄"
+echo
+echo "=========================================="
+echo "        SeveScript Beta v2.3"
+echo
 read -s -p "Password: " pass
 echo ""
 if [ "$pass" == "$nere" ] 
