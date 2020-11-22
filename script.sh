@@ -28,7 +28,7 @@ echo
 echo "=========================================="
 echo "               SeveScript Beta v2.3"
 echo
-read -s -p "Password: " pass
+read -s -p "[+] Password: " pass
 echo ""
 if [ "$pass" == "$nere" ] 
 then 
@@ -37,9 +37,7 @@ else
 echo "Access Denied!!"
 exit 1
 fi
-read -n 1 -s -r -p "Press ${green}Enter Key${norm} to Continue Or Press ${red}CTRL + C${norm} to Stop"
-
-echo ""
+echo
 read -p "[+] Type Your Desired Port: " hens
 
 read -n 1 -s -r -p "Press ${green}Enter Key${norm} to Continue Or Press ${red}CTRL + C${norm} to Stop"
