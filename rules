@@ -62,6 +62,7 @@ Free Music Here:
 <audio controls preload="metadata" style=" width:250px;"> 	<source src="https://mathew1357.github.io/Chiisana koi no uta.mp3" type="audio/mpeg">
 </audio>
 </p>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F101435985221283&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="150" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div></div></div>
 <br>
 <b>CREATED BY ANIME MEMES (ADMIN)</b>
@@ -92,5 +93,13 @@ colorbg {
 <style>html {
   scroll-behavior: smooth;
 }</style>
+
+
+
+
+
+
+
+
 
 </head>
